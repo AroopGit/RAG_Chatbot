@@ -1,2 +1,2 @@
 # RAG_Chatbot
-Bunch of RAG chatbot
+Bunch of RAG chatbots
