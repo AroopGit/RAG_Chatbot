@@ -1,0 +1,15 @@
+langchain
+fastapi
+uvicorn
+python-multipart
+ctransformers
+qdrant-client
+torch
+sentence_transformers
+chromadb
+pypdf
+chromadb
+langchain
+langchain-community 
+langchain-core
+ctransformers
