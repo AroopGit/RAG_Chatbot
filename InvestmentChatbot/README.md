@@ -1,0 +1,7 @@
+![image](https://github.com/user-attachments/assets/69d614cb-b9aa-4464-9f57-9adccf08a08b)
+
+Investment Banker RAG Chatbot, utilizing Intel's Neural Chat LLM. RAG, or Retrieval Augmented Generation, forms the core of this project, enhancing the chatbot's ability to provide detailed and relevant responses. I guide you through the entire process, beginning with the use of Langchain as the orchestration framework, crucial for managing the various components of the chatbot. The heart of the system is Intel's cutting-edge neural chat LLM, specifically the 4-bit quantized LLM developed by The Bloke from Huggingface. This model not only offers remarkable performance but also ensures efficiency in processing.
+
+
+
+Further enhancing the chatbot's capabilities, I incorporate BGE Embeddings for generating embeddings, and Chroma DB serves as the vector store, providing a robust database structure for handling complex queries. The chatbot's architecture is further strengthened by using CTransformers to load the LLM in GGUF format, ensuring seamless integration and high responsiveness. To provide comprehensive information about investment banking, I utilize a couple of PDFs as the primary source data. The backend of this system is developed using both Flask and FastAPI, showcasing two distinct approaches to building robust backend services. On the front end, I have crafted a user-friendly conversational interface that makes interacting with the chatbot both intuitive and engaging
